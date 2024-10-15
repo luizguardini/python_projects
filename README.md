@@ -1,1 +1,2 @@
-# python_projects from Tech With Tim
+Few Python projects from various sources.
+Comprehends Easy to Advanced
